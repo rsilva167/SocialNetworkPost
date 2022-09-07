@@ -1,0 +1,8 @@
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\bin\Debug\PostInSM.exe.config
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\bin\Debug\PostInSM.exe
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\bin\Debug\PostInSM.pdb
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\obj\Debug\PostInSM.csproj.AssemblyReference.cache
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\obj\Debug\PostInSM.csproj.SuggestedBindingRedirects.cache
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\obj\Debug\PostInSM.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\obj\Debug\PostInSM.exe
+C:\Windows\Temp\ws-vs2022\PostInSM\PostInSM\obj\Debug\PostInSM.pdb
